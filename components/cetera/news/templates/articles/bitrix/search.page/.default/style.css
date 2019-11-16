@@ -1,0 +1,18 @@
+.news-item .preview_picture_link
+{
+    display: block;
+    float: left;
+    height: 70px;
+    overflow: hidden;
+    padding-right: 10px;
+    width: 100px;
+}
+.news-item img.preview_picture
+{
+    float:left;
+    margin:0 1em 1em 0;
+    width: 100px;
+}
+.news-date-time {
+    color:#486DAA;
+}

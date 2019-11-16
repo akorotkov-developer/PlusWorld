@@ -1,0 +1,35 @@
+.video-item {
+    margin: 2em 0;
+    float:left;
+    width:49%;
+    text-align: center;
+}
+.video-item .link {
+    font-size:120%;
+    text-align: left;
+}
+.video-item .comments {
+    display:block;
+    width:20%;
+    float: right;
+    text-align: right;
+}
+.video-item img.preview_picture
+{
+	margin: 1em auto;
+}
+.video-date-time {
+	color:#486DAA;
+}
+.rubric-results {
+    width:48%;
+    float:left;
+}
+.rubric-pages {
+    width:50%;
+    float:left;
+    text-align: right;
+}
+.video-item .date {
+    float:left;
+}

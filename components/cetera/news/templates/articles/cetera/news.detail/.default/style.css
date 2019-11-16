@@ -1,0 +1,106 @@
+/*div.news-detail img.detail_picture
+{
+    max-width: 200px;
+    max-height: 200px;
+}*/
+div.news-detail div.detail_picture
+{
+    float:right;
+    margin:0 0 10px 6px;
+    width:200px;
+    height:230px;
+    overflow: hidden;
+}
+.news-rating, .news-comments {
+    float:left;
+    width:30%;
+    height: 30px;
+}
+
+.news-detail-links {
+    width:65%;
+    float:left;
+    color: #555;
+    font-size: 11px;
+    line-height: 16px;
+    margin: 20px 0;
+}
+.news-detail-links a, .news-detail-links a:visited {
+    color: #555;
+    font-size: 12px;
+    line-height: 16px;
+}
+.news-detail-share {
+    margin: 20px 0;
+    width:35%;
+    float:right;
+    text-align: right;
+}
+
+.news-detail-navig {
+    padding-bottom: 15px;
+    text-align: center;
+}
+.news-detail-navig .next {float:right;}
+.news-detail-navig .prev {float:left;}
+
+.iblock-vote {
+    width: 46%;
+    float: left;
+    margin-right: 3%;
+}
+.top_comments {
+    text-decoration: none;
+    background-image: url(/images/comment_plus.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    color: #555;
+    font-size: 11px;
+    padding-left: 30px;
+    line-height: 30px;
+    height: 30px;
+    display: inline-block;
+}
+
+.news-item {
+    margin: 2em 0;
+}
+.news-item .link {
+    font-size:120%;
+}
+.news-item .comments {
+    display:block;
+    width:20%;
+    float: right;
+    text-align: right;
+}
+.news-item .preview_picture_link
+{
+    display: block;
+    float: left;
+    height: 70px;
+    overflow: hidden;
+    padding-right: 10px;
+    width: 100px;
+}
+.news-item img.preview_picture
+{
+    float:left;
+    margin:0 1em 1em 0;
+    width: 100px;
+}
+.news-date-time {
+    color:#486DAA;
+}
+.rubric-results {
+    width:48%;
+    float:left;
+}
+.rubric-pages {
+    width:50%;
+    float:left;
+    text-align: right;
+}
+.rubric-banner {
+    width: 468px;margin: 10px auto;
+}

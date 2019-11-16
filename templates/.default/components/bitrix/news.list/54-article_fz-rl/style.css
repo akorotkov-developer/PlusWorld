@@ -1,0 +1,17 @@
+.firm-list {
+    margin-top: 1em;
+}
+.firm-item {
+    width:49%;
+    float:left;
+    display: inline-block;
+    margin: 1em 0;
+}
+.firm-logo {
+    text-align: center;
+    width:140px;
+    height:190px;
+    margin: 0 5px 5px 0;
+
+    float: left;
+}

@@ -1,0 +1,19 @@
+.inactive {
+    color:#777;
+}
+.rus, .num, .eng {
+    display: inline-block;
+    margin: 0.5em 0;
+}
+.rus a, .rus span{
+   margin: 0 0.21em;
+}
+.eng a, .eng span{
+   margin: 0 0.24em;
+}
+.num {
+    margin: 0 0.3em;
+}
+.num a, .num span {
+   margin: 0 0.06em;
+}

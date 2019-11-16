@@ -1,0 +1,53 @@
+.sp-link {
+border-bottom: 1px dotted;
+cursor: pointer;
+}
+div.sendpage {
+background: #F8F8F8;
+border:1px solid #ccc;
+padding: 1em;
+width:250px;
+position: absolute;
+z-index: 10000;
+}
+div.sendpage form {margin:0}
+div.sp-name, div.sp-email,div.sp-to-email, div.sp-captcha, div.sp-message {
+padding-bottom:0.1em;
+width:94%;
+}
+div.sp-name input, div.sp-email input, div.sp-to-email input, div.sp-message textarea
+{
+background-color: #fff;
+border: 1px solid #ccc;
+padding: 4px 6px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+-webkit-transition: border linear .2s, box-shadow linear .2s;
+-moz-transition: border linear .2s, box-shadow linear .2s;
+-o-transition: border linear .2s, box-shadow linear .2s;
+transition: border linear .2s, box-shadow linear .2s;
+width:100%;
+}
+ div.sp-message textarea {
+height: 40px;
+ }
+.sp-submit {
+text-align: center;
+}
+.sp-submit input[type=submit] {
+border: 0;
+background: #555;
+border-radius: 5px;
+color:#fff;
+padding: 3px 5px;
+cursor: pointer;
+}
+.sp-submit input[type=submit]:hover {
+background: #777;
+}
+span.sp-req {color:red;}
+div.sp-ok-text {color:green; font-weight:bold; padding-bottom: 1em;font-size: 90%;}
+.sp-hide {
+display: none;
+}

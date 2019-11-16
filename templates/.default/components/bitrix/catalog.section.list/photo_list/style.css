@@ -1,0 +1,7 @@
+ul#pebg_rubrics {
+    list-style: disc outside none;
+    margin: 7px 19px 15px;
+}
+ul#pebg_rubrics li {
+    margin: 6px 0;
+}

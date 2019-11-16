@@ -1,0 +1,28 @@
+.b-item__date {
+    color: #919191;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.b-item__detail-picture {
+    max-width: 386px;
+}
+
+.b-item__detail-picture img{
+    width: 100%;
+}
+.b-item__span {
+    text-decoration: underline;
+    color: #636363;
+    font-weight: bold;
+}
+.else_news {
+    text-align: center;
+}
+.else_news-span {
+    color: #2F3E46;
+    font-weight: bold;
+    cursor: pointer;
+    border-bottom: 2px dashed #2F3E46;
+}

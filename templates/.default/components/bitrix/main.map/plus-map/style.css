@@ -1,0 +1,39 @@
+ul.map-level-0, ul.map-level-1, ul.map-level-2 {
+    margin: 1em 0;
+}
+ul.map-level-1 {
+    margin: 1.5em 0 1.5em 1em;
+    list-style-type: disc;
+}
+ul.map-level-2 {
+    margin: 0.5em 0 0.5em 1em;
+    list-style-type: disc;
+}
+
+ul.map-level-0 li{
+    margin: 0 0 1.5em;
+}
+ul.map-level-1 li, ul.map-level-2 li  {
+    margin: 0.5em 0;
+}
+
+ul.map-level-0 a {
+	font-weight: bold;
+    font-size: 11pt;
+}
+ul.map-level-1 a, ul.map-level-2 a{
+	font-weight: normal;
+    font-size: 9pt;
+}
+
+ul.map-level-0 div {
+    margin: 0.5em 0;
+    line-height:1.2;
+}
+
+
+
+.map-columns td {
+	vertical-align: top;
+    width: 33%;
+}

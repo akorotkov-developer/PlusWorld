@@ -1,0 +1,30 @@
+div.subscribe-edit .red {
+	color:red;
+}
+div.subscribe-edit .green {
+	color:green;
+}
+div.subscribe-edit .errorcolor {
+	color:red;
+}
+div.subscribe-edit .successcolor {
+	color:green;
+}
+
+
+.up {
+    border-left: 4px solid #A51340;
+    width:60%;
+    padding: 5px 5px 5px 15px;
+}
+.pad_5 {padding: 5px;}
+
+.success {
+    font-weight: bold;
+    color:#A51340;
+
+}
+.fail {
+    font-weight: bold;
+    color:red
+}

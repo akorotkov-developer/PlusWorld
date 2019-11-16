@@ -1,0 +1,44 @@
+div.news-detail img.detail_picture
+{
+    max-width: 200px;
+    max-height: 200px;
+}
+div.news-detail div.detail_picture
+{
+	float:right;
+	margin:0 0 10px 6px;
+    width:200px;
+    height:230px;
+    overflow: hidden;
+}
+.news-rating, .news-comments {
+    float:left;
+    width:30%;
+    height: 30px;
+}
+
+.news-detail-links {
+    width:65%;
+    float:left;
+    color: #555;
+    font-size: 11px;
+    line-height: 16px;
+    margin: 20px 0;
+}
+.news-detail-links a, .news-detail-links a:visited {
+    color: #555;
+    font-size: 12px;
+    line-height: 16px;
+}
+.news-detail-share {
+    margin: 20px 0;
+    width:35%;
+    float:right;
+    text-align: right;
+}
+
+.news-detail-navig {
+    text-align: center;
+}
+.news-detail-navig .next {float:right;}
+.news-detail-navig .prev {float:left;}

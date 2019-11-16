@@ -1,0 +1,24 @@
+div.photo-sections-top table.data-table tr.head-row td {
+	padding:0 8px;
+	border-bottom:none;
+}
+div.photo-sections-top table.data-table tr.data-row {
+	border-top:none;
+	border-bottom:none;
+}
+div.photo-sections-top table.data-table th.data-cell {
+	border-top:none;
+	border-bottom:none;
+	padding:2px 2px;
+}
+div.photo-sections-top {
+    background: #cdcdcd;
+    text-align: center;
+    color: #444;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+div.photo-sections-top a:link, div.photo-sections-top a:visited {
+    color: #444;
+
+}

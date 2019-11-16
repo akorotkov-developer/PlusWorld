@@ -1,0 +1,25 @@
+div.video-sections-top table.data-table tr.head-row td {
+	padding:0 13px;
+	border-bottom:none;
+}
+div.video-sections-top table.data-table tr.data-row {
+	border-top:none;
+	border-bottom:none;
+}
+div.video-sections-top table.data-table th.data-cell {
+	border-top:none;
+	border-bottom:none;
+	padding:2px 2px;
+}
+div.video-sections-top {
+    background: #cdcdcd;
+    text-align: center;
+    /*color: #444;*/
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+div.video-sections-top a:link, a:visited {
+    /*color: #444;*/
+
+}
+.video-sections-top td { width:25%}

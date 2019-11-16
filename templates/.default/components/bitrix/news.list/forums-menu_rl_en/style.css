@@ -1,0 +1,67 @@
+div.news-list img.preview_picture {
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+div.left-forum img.preview_picture {
+	width:20%; 
+	float:left; 
+	padding-right:3%;
+}
+
+
+
+#submenu_enevents.left-forum, #submenu_enevents .right-forum {
+padding: 20px;
+float: left;
+width: 275px;
+margin-right: 11px;
+}
+
+.w50 {
+width: 50%;
+}
+
+#submenu_enevents .left-forum img.preview_picture {
+padding-right: 3%;
+}
+
+#submenu_enevents .forum-desc {
+padding: 2%;
+}
+
+#submenu_enevents .left-forum h3 {
+font-size: 14px;
+height: 100%;
+line-height: 23px;
+}
+
+.anons {
+font-size: 12px;
+line-height: 16px;
+margin-bottom: 3px;
+width: 300px;
+}
+
+.w45 {
+width: 45%;
+}
+
+#submenu_enevents .counter {
+border: 1px solid #ccc;
+text-align: center;
+position: relative;
+left: 0;
+}
+
+#submenu_enevents .counter .finished {
+background: none repeat scroll 0 0 #9a9a9a;
+}
+
+#submenu_enevents .counter .timer {
+background: none repeat scroll 0 0 #6dba1e;
+padding: .5em;
+color: #fff;
+}

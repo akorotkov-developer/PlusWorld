@@ -1,0 +1,106 @@
+ol.vote-items-list, ol.vote-items-list li {
+	margin: 0; padding: 0; border: none; font-size: 100%; list-style-type: none;}
+#content_container_hor ol.vote-items-list, ol.vote-items-list li {
+    font-size: 95%; }
+#content_container_hor .vote-item-date, #content_container_hor .vote-item-counter {
+    font-size: 84%;}
+
+ol.vote-items-list li {
+	padding: 0.55em;
+}
+
+ol.vote-items-list ol.vote-question-list {
+	margin-top:0.55em;}
+.vote-answer-table {
+    width:90%; }
+.vote-answer-lolight {
+    color:#999; }
+div.vote-item-links{
+	float:right;}
+.vote-item-title{
+	font-weight:bold;}
+div.vote-item-date{font-size: 10pt;}
+div.vote-item-header{
+	margin-bottom: 0.5em;}
+div.vote-item-footer{
+	margin-top: 0.5em;}
+div.vote-item-image{
+	float:left;
+	padding-right:0.55em;}
+div.vote-item-lamp{
+	display:none;}
+.vote-item-lamp-green span {
+	color:green;}
+.vote-item-lamp-red span {
+	color:red;}
+div.vote-clear-float {
+	clear: both;}
+.vote-answer-bar {
+    height: 18px;
+    float: left;
+    margin-right:10px;
+    margin-top:0px; }
+.vote-answer-counter {
+    float:left;
+    line-height:18px; }
+
+/*font */
+.voting-result-box, .vote-answer-table, .vote-bar-table, .vote-circle-table
+{
+	font-size:100%;
+    border-collapse:collapse;
+    border-spacing:0; }
+
+.vote-bar-table {
+	width:98%;
+    border-collapse:collapse;
+    border-spacing:0;
+}
+.vote-bar-square {
+	width:10px;
+	height:10px; }
+.vote-answer-row td {
+    padding-top:3px;}
+
+font.errortext {
+background: #FCD5D5;
+display: block;
+margin: 0;
+padding: 0.4em 1.117em;
+border: 1px solid red;
+}
+font.notetext {
+background: #DCFDE5;
+display: block;
+margin: 0;
+padding: 0.4em 1.117em;
+border: 1px solid #288D18;
+}
+
+.vote-nav-links {
+    margin: 1em 0;
+}
+.vote-nav-links .up {
+    width:33%;
+    text-align: center;
+    float:left;
+}
+.vote-nav-links .prev {
+    width:33%;
+    text-align: left;
+    float:left;
+}
+.vote-nav-links .next {
+    width:33%;
+    text-align: right;
+    float:left;
+}
+.vote-nav-links.vote-top {
+    border-bottom: 1px solid #666;
+    padding-bottom: 3px;
+}
+.vote-nav-links.vote-bot {
+    border-top: 1px solid #666;
+    padding-top: 3px;
+
+}

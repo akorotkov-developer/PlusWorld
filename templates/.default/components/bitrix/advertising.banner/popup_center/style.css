@@ -1,0 +1,46 @@
+#fade{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #ccc;
+    opacity: 0.5;
+    width: 100%;
+    z-index:10001;
+}
+
+.close-form{
+    display: block;
+    float: right;
+    cursor: pointer;
+    font-size: 24px;
+    z-index: 1000;
+    position: relative;
+    background-color: #ccc;
+    padding: 4px;
+    border-radius: 15px;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    text-align: center;
+    top: 17px;
+    left: 13px;
+}
+
+.popup_center {
+    max-width: 520px;
+    max-height: 520px;
+    width: 520px;
+    height: auto;
+    position: fixed;
+    left: 50%;
+    margin-left: -260px;
+    top: 5%;
+    z-index: 10002;
+}
+.popup_center img{
+    width: 100%;
+    max-width: 520px;
+    max-height: 520px;
+}

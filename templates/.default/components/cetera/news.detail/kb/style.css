@@ -1,0 +1,78 @@
+div.firm-detail {
+    margin-bottom: 15px;
+}
+div.firm-detail img.detail_picture
+{
+    max-width: 200px;
+    max-height: 200px;
+}
+div.firm-detail div.detail_picture
+{
+	float:right;
+	margin:55px 0 20px 6px;
+    width:200px;
+    overflow: hidden;
+}
+.firm-info {
+    float:right;
+	margin:15px 0 30px 6px;
+    width:200px;
+    clear:right;
+}
+
+.firm-detail-links {
+
+    width:85%;
+    float:left;
+    color: #555;
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: -70px;
+}
+.firm-detail-links a, .firm-detail-links a:visited {
+    color: #555;
+    font-size: 12px;
+    line-height: 16px;
+}
+.firm-detail-share {
+    width:35%;
+    float:right;
+    text-align: right;
+}
+
+.firm-detail-navig {
+    margin-top: 25px;
+    text-align: center;
+}
+.firm-detail-navig .next {float:right;}
+.firm-detail-navig .prev {float:left;}
+
+.firm-rating, .firm-comments {
+    margin: 1em 0;
+}
+.firm-desc {
+    clear: left;
+}
+.firm-info br {
+    line-height: 2;
+}
+
+.firms-catdesc {
+    margin: 1em 0;
+}
+.firms-catdesc .cattitle {
+    font-size: 110%;
+    border-bottom: 1px dotted;
+    line-height: 2;
+    cursor: pointer;
+}
+.firms-catdesc .catdesc {
+    padding: 1em 0;
+    display: none;
+}
+.firms-catdesc .cattitle.selected {
+    font-weight: bold;
+}
+.firms-catdesc .catdesc.selected {
+    display: block;
+}

@@ -1,0 +1,19 @@
+.firm-list_kb {
+    /*border-bottom: 1px solid #999;*/
+    /*padding-bottom: 1em;
+    margin-bottom: 1em;*/
+}
+.firm-item {
+    display: inline-block;
+    margin: 0.45em 0;
+}
+.firm-logo {
+    width:140px;
+    height:80px;
+    margin: 5px;
+    background: #fefefe;
+}
+.cat-title {
+    font-size: 90%;
+    color:#666;
+}

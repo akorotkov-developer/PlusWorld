@@ -1,0 +1,25 @@
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+.theme-news .item {
+    width:100%;
+	height:auto;
+    margin-bottom: 15px;
+}
+.theme-news .item .item_img {
+    width: 100px;
+    max-height: 100px;
+    min-height: 65px;
+    float:left;
+    margin: 5px 14px 7px 0;
+    overflow: hidden;
+
+}
+.theme-news .item img {
+    max-width: 100px;
+}

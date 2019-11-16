@@ -1,0 +1,12 @@
+div.news-list img.preview_picture {
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+div.left-forum img.preview_picture {
+	width:20%; 
+	float:left; 
+	padding-right:3%;
+}

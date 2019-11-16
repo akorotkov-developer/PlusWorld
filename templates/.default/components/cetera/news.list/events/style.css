@@ -1,0 +1,41 @@
+.event-item {
+    margin: 2em 0;
+}
+.event-item .link {
+    font-size:120%;
+}
+.event-item .comments {
+    display:block;
+    width:20%;
+    float: right;
+    text-align: right;
+}
+.event-item img.preview_picture
+{
+	float:left;
+	margin:0 1em 1em 0;
+}
+.event-date-time {
+	color:#486DAA;
+}
+.rubric-results {
+    width:48%;
+    float:left;
+}
+.rubric-pages {
+    width:50%;
+    float:left;
+    text-align: right;
+}
+.rubric-banner {
+    width: 468px;margin: 10px auto;
+}
+.event-sponsor {
+    margin-left: 2em;
+    width: 122px;
+    float: right;
+}
+.event-sponsor img {
+    max-width: 122px;
+    max-height: 70px;
+}

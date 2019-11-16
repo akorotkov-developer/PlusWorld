@@ -1,0 +1,16 @@
+div.photo-album-avatar{
+	width:210px;
+	height:150px;}
+div.photo-item-cover-block-container,
+div.photo-item-cover-block-outer,
+div.photo-item-cover-block-inner{
+	background-color: white;
+	height:226px;
+	width:250px;}
+div.photo-album-thumbs-avatar{
+	width:100px;
+	height:100px;}
+ul.photo-album-list div.photo-item-info-block-outside {
+	width: 258px;}
+ul.photo-album-thumbs-list div.photo-item-info-block-inner {
+	width:148px;}

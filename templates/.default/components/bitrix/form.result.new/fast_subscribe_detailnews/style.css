@@ -1,0 +1,9 @@
+.inputtext {
+	border: 1px solid #000;
+	border-radius: 10px;
+	font-size: 16px;
+	padding-left: 7px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	width: 333px;
+}
